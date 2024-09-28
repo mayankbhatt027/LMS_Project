@@ -1,0 +1,25 @@
+/* 
+#main_panel{
+    width: 90vw;
+}
+header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media (min-width:1024.5px){
+    #belowpanel{
+        display: none;
+    }
+}
+
+@media (min-width:200px) and (max-width:1024px){
+    #sidepanel{
+        display: none;
+    }
+   
+}
+#mainpanel{
+    height: 100vh;
+} */

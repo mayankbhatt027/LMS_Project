@@ -1,0 +1,54 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.rightcompo
+{
+    width: 100vw;
+    height: 100vh;
+    border: 1px solid gainsboro;
+    margin-left: 15rem;
+    margin-top: 1rem;
+    /* justify-content: end; */
+}
+
+/* @media (max-width:390px)
+{
+    .rightcompo{
+        
+    }
+} */
+
+.current
+{
+    width: 100vw;
+    height: 100vh;
+    /* border: 1px solid gainsboro; */
+    margin-left: 1rem;
+    margin-top: none; 
+}
+
+/* .rightcompo div:hover{
+    background-color: rgb(8, 131, 175);
+} */
+/*
+
+.search{
+    width:64%;
+
+    border: 1px solid black;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+
+} */
+
+/* .search input{
+    width: 95%;
+    border: none;
+    outline: none;
+    height: 2rem;
+    padding-left: 0.6rem;
+} */

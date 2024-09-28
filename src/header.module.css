@@ -1,0 +1,53 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.head
+{
+    display: flex;
+    margin-top: 7px;
+    
+    border-bottom: 1px solid gainsboro;
+}
+.LeftHead
+{
+    display: flex;
+    width: 40%;
+    margin-left: 7rem;
+    align-items: center;
+    
+    /* justify-content: space-around; */
+}
+
+@media (max-width:780px)
+{
+    .LeftHead{
+        margin-left: 1rem;
+    }
+
+    .RightHead{
+        /* width: 24%; */
+        margin-left: 1rem;
+        padding: 2px;
+    }
+}
+
+.RightHead
+{
+    display: flex;
+    width: 42%;
+    justify-content: end;
+    align-items: center;
+    gap: 10px;
+}
+.mlogo
+{
+    border: 1px solid rgb(19, 19, 23);
+    color: aliceblue;
+    background-color: rgb(14, 14, 90);
+    border-radius: 100px;
+    font-size: 1.2rem;
+}
